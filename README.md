@@ -1,8 +1,8 @@
 # simple_hmm
 ----
-Here is a simple implementation of an HMM for to master it.
+Here is a simple implementation of an HMM to master it.
 
-I implement the algorithms used to solve the three mains problems of HMM.
+We implement the algorithms used to solve the three mains problems of HMM.
 
 1. Forward algorithm to solve **Likehood problem**
 2. Viterbi algorithm to solve **Decoding problem**
